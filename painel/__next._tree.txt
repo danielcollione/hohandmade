@@ -1,0 +1,12 @@
+:HL["/hohandmade/_next/static/chunks/24dt4f9mhpwny.css","style"]
+:HL["/hohandmade/_next/static/chunks/12qwdlb5fit-r.css","style"]
+:HL["/hohandmade/_next/static/media/01d6212a423b17a1-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hohandmade/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hohandmade/_next/static/media/4a0b7dd978568ff2-s.p.3fofz6dws3mg0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hohandmade/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hohandmade/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hohandmade/_next/static/media/d90dd95b053d9495-s.p.3r2y_bth_sjsm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hohandmade/_next/static/chunks/3m87gvievhw2i.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"painel","h":96,"c":"$Q2"}]]
+0:{"b":"9ZszsIZLAjogCdUELrvjo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
