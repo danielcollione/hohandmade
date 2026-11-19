@@ -1,5 +1,5 @@
 :HL["/hohandmade/_next/static/chunks/24dt4f9mhpwny.css","style"]
-:HL["/hohandmade/_next/static/chunks/12qwdlb5fit-r.css","style"]
+:HL["/hohandmade/_next/static/chunks/0ggi9z8bqvx-c.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"9ZszsIZLAjogCdUELrvjo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"p7NltVdQ6MulMfTRPaFDy","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
